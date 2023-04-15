@@ -53,19 +53,3 @@ const CountersList = () => {
 };
 
 export default CountersList;
-
-
-
-
-
-
-
-
-
-
-
-
-//     );
-// };
-
-// export default CountersList;
